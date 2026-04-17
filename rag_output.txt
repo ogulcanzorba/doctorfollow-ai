@@ -1,0 +1,32 @@
+
+============================================================
+Query: What are the latest guidelines for managing type 2 diabetes?
+============================================================
+Son rehberler için yeterli bilgi bulunmamaktadır. Ancak Tip 2 diyabetin önlenmesi ve yönetimi için bazı ilaçlar ve yaşam tarzı değişiklikleri önerilmektedir (PMID: 36967777). Ayrıca, Tip 2 diyabetin tanı ve yönetiminde güncel kanıtlar ve ulusal ve uluslararası rehberlere göre optimizasyon için bazı öneriler bulunmaktadır (PMID: 39084811). 
+
+Tip 2 diyabetin yönetimi için, yaşam tarzı değişiklikleri, ilaçlar ve diğer tedaviler önerilmektedir. Ancak, bu konuda yeterli bilgi bulunmamaktadır. 
+
+Ayrıca, Tip 2 diyabetin önlenmesi ve yönetimi için bazı faktörler ve mekanizmalar önemlidir. Bunlar arasında mitokondriyal disfonksiyon, obezite, bağırsak mikrobiyotası, oksidatif stres ve inflamasyon bulunmaktadır (PMID: 40416523). 
+
+Sonuç olarak, Tip 2 diyabetin yönetimi için güncel rehberler ve öneriler hakkında yeterli bilgi bulunmamaktadır. Ancak, bazı ilaçlar, yaşam tarzı değişiklikleri ve diğer tedaviler önerilmektedir.
+
+============================================================
+Query: Acute otitis media treatment in children
+============================================================
+Akut otitis media (AOM) çocuklarda sık görülen bir enfeksiyondur. Tedavi, çocuğun yaşına, hastalığın şiddetine ve diğer faktörlere bağlı olarak değişebilir. 
+
+Tedavi yöntemi olarak, 2 yaşından küçük tüm çocuklara ve 2 yaşından büyük çocuklarda certain koşullar altında (örneğin, yüksek ateş, bilateral otitis media, otorrhea, craniofacial anormallikler, immun yetmezlik) antimikrobiyal tedavi önerilir (PMID: 28707578). 
+
+İmmün yetenekli 2 yaş ve üzeri çocuklarda, hafif ve komplikasyonsuz akut otitis media durumunda, antibiyotik tedavisi olmadan gözlem yapılabilir (PMID: 28707578). 
+
+Amoksisilin, penisiline alerjisi olmayan hastalarda akut otitis media tedavisinde tercih edilen antibiyotiktir (PMID: 24134083). 
+
+Ağrı kesici tedavisi, akut otitis media yönetiminde önemli bir yer tutar (PMID: 24134083). 
+
+Tedaviye rağmen 48-72 saat içinde semptomlar devam eden çocuklarda, ikinci basamak antibiyotik tedavisi düşünülebilir (PMID: 24134083). 
+
+Otitis media ile effusion (OME) durumunda, antibiyotik, dekonjestan veya nazal steroid tedavisi önerilmez (PMID: 24134083). 
+
+Anatomik hasar, işitme kaybı veya dil gecikmesi olan çocuklarda, otolaryngoloji uzmanına başvurulması önerilir (PMID: 24134083). 
+
+Sonuç olarak, akut otitis media tedavisinde, çocuğun yaşına, hastalığın şiddetine ve diğer faktörlere bağlı olarak değişen bir yaklaşım gerekmektedir. Antibiyotik tedavisi, ağrı kesici tedavisi ve gözlem, tedavi seçenekleri arasında yer alır (PMID: 28707578, 24134083, 24439877, 25913598, 39939081).
